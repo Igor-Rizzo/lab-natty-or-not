@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Aprendendo a progromar de forma Extremamente Aesthetic ;)
 
 ## 📒 Descrição
 Este ebook é um guia completo para iniciantes que desejam aprender programação de forma eficiente e divertida. Abordamos desde os conceitos básicos até técnicas avançadas, utilizando exemplos práticos e exercícios interativos para garantir uma aprendizagem sólida.
